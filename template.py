@@ -19,6 +19,7 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
+    "dvc.yaml"
     "research/trials.ipynb"
 
 ]
