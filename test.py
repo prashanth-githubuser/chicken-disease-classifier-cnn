@@ -1,3 +1,3 @@
 from cnnClassifier import logging 
 
-logging.info("Welcome")
+logging.info("Logging folder is created")
