@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "prashanth-githubuser/chicken-disease-classifier-cnn"
+REPO_NAME = "https://github.com/prashanth-githubuser/chicken-disease-classifier-cnn.git"
 AUTHOR_USER_NAME = "prashanth-githubuser"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "prashanth-githubuser@outlook.com"
